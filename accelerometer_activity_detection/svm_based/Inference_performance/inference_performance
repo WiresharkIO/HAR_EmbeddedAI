@@ -1,0 +1,20 @@
+Segment 0, Predicted_class0, True_class 0
+Inference time: 514.125 ms
+Segment 1, Predicted_class0, True_class 0
+Inference time: 514.125 ms
+Segment 2, Predicted_class0, True_class 0
+Inference time: 513.458 ms
+Segment 3, Predicted_class0, True_class 0
+Inference time: 537.979 ms
+Segment 4, Predicted_class1, True_class 1
+Inference time: 534.823 ms
+Segment 5, Predicted_class1, True_class 1
+Inference time: 534.823 ms
+Segment 6, Predicted_class1, True_class 1
+Inference time: 534.823 ms
+Segment 7, Predicted_class1, True_class 1
+Inference time: 534.823 ms
+Segment 8, Predicted_class1, True_class 1
+Inference time: 532.417 ms
+Segment 9, Predicted_class1, True_class 1
+Accuracy: 100.00% (40/40)
