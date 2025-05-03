@@ -5,6 +5,11 @@
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/187fa823-4ce8-4f9f-b8cc-36dce75e1ed6" />
 
 
+-------------------------------------------------------------------------------------
+> Feature extraction - example: zero-crossings
+-------------------------------------------------------------------------------------
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/6d3913a7-5f58-4af7-a2b0-1006077d599c" />
+
 
 -------------------------------------------------------------------------------------
 > Feature analysis
@@ -15,6 +20,7 @@
   <img width="30%" alt="image" src="https://github.com/user-attachments/assets/66b33b42-0344-41e9-8e56-79b2579d2442" />
   <img width="30%" alt="image" src="https://github.com/user-attachments/assets/81c3bf6c-bd69-41db-937a-ecec4ceff72c" />
 </div>
+
 
 
 -------------------------------------------------------------------------------------
